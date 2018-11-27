@@ -1,0 +1,100 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title> Two lasses in the toon. Things to do in Newcastle </title>
+  <link href='css/bootstrap.css' rel='stylesheet'>
+  <link href='css/style.css'rel='stylesheet'>
+  <link href='../web-site.css' rel='stylesheet'>
+  <script src="js/jquery-3.3.1.js"></script>
+  <meta name="viewport" content= "width=device-width, initial-scale=1.0">
+</head>
+
+  <header>
+    <div class="col-xs-6">
+    <h1> <b> About the lasses</b></h1>
+    </div>
+    <button class='home'> Back to Home </button>
+    <script>  $('.home').click(function (event){
+        var url = "https://regsmi.github.io/Web-site/";
+        $(location).attr('href',url);
+        // alert (url);
+      });
+        </script>
+   </header>
+<body>
+
+
+  <!-- <h2> <big> About </big> <br /> <small> The lasses </small> </h2> -->
+
+
+
+
+<div class='col-xs-6'>
+
+      <h2> Regina </h2>
+
+      <div class="photo" id=regina>
+      <img src='reginaphoto.jpg'class="img-circle">
+    </div>
+      <div class="row">
+      </div>
+        <blockquote>
+        <small>Miss Regina, nightlife expert</small>
+        <div id="brother"></div>
+        <p> MSc Operations Management (Dual Award) student who enjoys a good night out, dancing and spending time with friends.</p>
+
+        </blockquote>
+
+    </div>
+
+
+<div class="col-xs-6">
+
+      <h2> Sumire</h2>
+        <div class=photo id="sumire">
+      <img src='sumirephoto.jpg'class="img-circle">
+    </div>
+      <div class="row">
+      </div>
+        <blockquote>
+        <p> MA Cross-Cultural Communication and International Marketing. Loves a nice cup of coffee as much as she loves a pint of good beer.  </p>
+        <small> Miss Sumire, daytime expert </small>
+        <blockquote>
+
+</div>
+
+        <div id='social-buttons'>
+          <button class='btn-twitter'>Twitter</button>
+          <button class='btn-facebook'>Facebook</button>
+          <button class='btn-instagram'>Instagram</button>
+        </div>
+
+        <!-- <button id='social-buttons'> Twitter</button>
+        <script>  $('#social-buttons').click(function (event){
+            alert ("Follow us on Twitter!") <;
+          });
+            </script> -->
+
+  <!-- <div id='social-buttons'> -->
+    <!-- <b> -->
+    <!-- <button class="btn-twitter"> Twitter </button> -->
+    <script>  $('.btn-twitter').click(function (event){
+        alert ("Follow us on Twitter!");
+      });
+    </script>
+
+    <!-- <button class="btn-facebook"> Facebook </button> -->
+    <script>  $('.btn-facebook').click(function (event){
+        alert ("Follow us on Facebook!");
+      });
+    </script>
+
+    <!-- <button class="btn-instagram"> Instagram </button> -->
+    <script>  $('.btn-instagram').click(function (event){
+        alert ("Follow us on Instagram!");
+      });
+    </script>
+
+  <!-- </b> -->
+  </div>
+</body>

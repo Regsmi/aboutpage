@@ -1,0 +1,342 @@
+header {
+  background-image: url("newcastle1.jpg");
+  text-align: center;
+  font-style: oblique;
+  padding-top: 60px;
+  color: black;
+  height: 400px;
+  background-size:cover;
+  margin: 0 0 0 0;
+  position: relative;
+}
+
+body{
+
+   background: -webkit-linear-gradient(bottom,rgba(221,160,221,0), rgba(139,0,139,0));
+   background-color: black;
+}
+h1{
+  font-size: 50px;
+  margin-left: 10px;
+  font-family: 'Londrina Shadow';
+}
+#night{color:black;
+
+}
+
+#day{color:white;
+
+}
+
+#brother{
+  height:40px;
+}
+
+h2{margin-left: 200px;
+  font-size: 40px;
+  color:white;
+}
+
+
+.dance {color:red;}
+
+.time {
+  margin-left: 270px;
+  color:white;
+  background-color: blue;
+}
+.time1{
+  margin-left: 270px;
+  color:white;
+  background-color: blue;
+}
+.time2
+{
+  margin-left: 270px;
+  color:white;
+  background-color: blue;
+}
+.time3 {
+  margin-left: 270px;
+  color:white;
+  background-color: blue;
+}
+.time4 {
+  margin-left: 270px;
+  color:white;
+  background-color: blue;
+}
+.time5 {
+  margin-left: 270px;
+  color:white;
+  background-color: blue;
+}
+.time6{
+  margin-left: 270px;
+  color:white;
+  background-color: blue;
+}
+.time7{
+  margin-left: 270px;
+  color:white;
+  background-color: blue;
+}
+.time8{
+  margin-left: 270px;
+  color:white;
+  background-color: blue;
+}
+
+.home {
+  margin-left: 500px;
+  margin-top: 350px;
+  color:white;
+  background-color: black;
+}
+.bad
+  {
+   color:white;
+   background-color: black;
+ }
+ .bad1 {
+  color:white;
+  background-color: black;
+}
+.bad2{
+ color:white;
+ background-color: black;
+}
+.bad3{
+ color:white;
+ background-color: black;
+}
+.good{
+ color:white;
+ background-color: black;
+}
+.good1{
+ color:white;
+ background-color: black;
+}
+.good2{
+ color:white;
+ background-color: black;
+}
+.good3{
+ color:white;
+ background-color: black;
+}
+
+
+
+
+#love{
+  background-image: url("tigertiger.jpg");
+  background-size:cover;
+  max-width: 500px;
+  position:relative;
+  margin-left: 80px;
+  border-radius: 12px;
+  color: white;
+  height: 200px;
+  font: 50px;
+  text-align: center;
+
+}
+p {
+  color: rgba(255,255,255,1);
+  background:rgba(0,0,0,1);
+  background:linear-gradient(bottom, rgba(0,0,0,1), rgba(0,0,0,.4));
+  background:-webkit-linear-gradient(bottom, rgba(0,0,0,1), rgba(0,0,0,.4));
+  background:-moz-linear-gradient(bottom, rgba(0,0,0,1), rgba(0,0,0,.4));
+  padding: 10px;
+  line-height: 25px;
+  text-align: justify;
+  position: absolute;
+  bottom: 0;
+  margin:0;
+  font-size: 15px;
+}
+
+#fun {
+  background-image: url("qb.jpg");
+  background-size:cover;
+  max-width: 500px;
+  position:relative;
+  border-radius: 12px;
+  color: white;
+  height: 200px;
+  font: 50px;
+  text-align: center;
+  margin-left: 80px;
+
+}
+
+#fun1 {
+  background-image: url("cakestories.jpg");
+  background-size:cover;
+  max-width: 500px;
+  position:relative;
+  border-radius: 12px;
+  color: white;
+  height: 200px;
+  font: 50px;
+  text-align: center;
+  margin-left: 80px;
+}
+#fun2 {
+  background-image: url("dumpling.jpg");
+  background-size:cover;
+  max-width: 500px;
+  position:relative;
+  border-radius: 12px;
+  color: white;
+  height: 200px;
+  font: 50px;
+  text-align: center;
+  margin-left: 80px;
+
+}
+#fun3 {
+  background-image: url("tynemouth.jpg");
+  background-size:cover;
+  max-width: 500px;
+  position:relative;
+  border-radius: 12px;
+  color: white;
+  height: 200px;
+  font: 50px;
+  text-align: center;
+  margin-left: 80px;
+
+}
+
+#left{
+  background:rgb(245, 245, 220);
+}
+#right{
+  background:rgb(0,0,0);
+}
+#love1{
+  background-image: url("flares.jpg");
+  background-size:cover;
+  max-width: 500px;
+  position:relative;
+  border-radius: 12px;
+  color: white;
+  height: 200px;
+  font: 50px;
+  text-align: center;
+  margin-left: 80px;
+}
+#love2{
+  background-image: url("empress.jpg");
+  background-size:cover;
+  max-width: 500px;
+  position:relative;
+  border-radius: 12px;
+  color: white;
+  height: 200px;
+  font: 50px;
+  text-align: center;
+  margin-left: 80px;
+}
+#love3{
+  background-image: url("bierkeller.jpg");
+  background-size:cover;
+  max-width: 500px;
+  position:relative;
+  border-radius: 12px;
+  color: white;
+  height: 200px;
+  font: 50px;
+  text-align: center;
+  margin-left: 80px;
+}
+
+#yes{margin-top: -18px;
+
+}
+#smile{
+  margin-top: 5px;
+}
+ .dropdown {
+   position:relative;
+ }
+
+@media (max-width: 500px){
+
+    h1{font-size:25px;
+      margin: 50px 20px 200px 30px;
+    }
+    header {background-position:center;
+    }
+    h2 {font-size: 23px}
+
+    }
+    h3{font-size:20px}
+    p{
+    }
+
+  }
+
+
+  .about{
+    margin-left: -500px;
+    margin-top: 5px;
+    color:white;
+    background-color: black;
+
+
+  }
+  .names{
+
+    font-size: 20px;
+  }
+
+  #social-buttons{
+    color:white;
+    background-color: black;
+  }
+
+  .btn-twitter{
+    background-color: black;
+    color: white;
+    margin-left: 550px;
+    margin-top: 100px;
+    margin-bottom: 100px;
+  }
+
+  .btn-facebook{
+    background-color: black;
+    color: white;
+  }
+
+  .btn-instagram{
+    background-color: black;
+    color: white;
+  }
+
+  .photo{
+
+    margin-left: 30px;
+  }
+
+  blockquote{
+    background-color: black;
+    border-color: black;
+  }
+
+  #regina{
+    background-color: black;
+    height:auto;
+    padding-top: 50px;
+    padding-bottom: 65px;
+  }
+
+  #sumire{
+    background-color: :black;
+    height: auto;
+    padding-top: 50px;
+    padding-bottom: 65px;
+  }
